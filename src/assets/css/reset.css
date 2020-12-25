@@ -1,0 +1,85 @@
+/*重置属性 start*/
+article,
+aside,
+blockquote,
+body,
+button,
+code,
+dd,
+details,
+div,
+dl,
+dt,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+hr,
+html,
+input,
+legend,
+li,
+menu,
+nav,
+ol,
+p,
+pre,
+section,
+td,
+textarea,
+th,
+canvas,
+ul {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+div {
+  position: relative;
+  pointer-events: auto;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  /* font-family: DroidSansFallback,Microsoft YaHei, Arial, Helvetica, sans-serif; */
+  font-family: Microsoft YaHei, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  /* font-size: 0.14rem; */
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  overflow: hidden;
+  color: #000000;
+}
+
+/*重置属性 end*/
